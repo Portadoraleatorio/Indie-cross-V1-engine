@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_sin.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0 alone0000" x="0" y="0" width="156" height="157"/>
+	<SubTexture name="0 alone0001" x="0" y="0" width="156" height="157"/>
+	<SubTexture name="0 alone0002" x="0" y="0" width="156" height="157" frameX="-1" frameY="0" frameWidth="156" frameHeight="157"/>
+	<SubTexture name="0 alone0003" x="0" y="0" width="156" height="157" frameX="-1" frameY="0" frameWidth="156" frameHeight="157"/>
+	<SubTexture name="0 alone0004" x="0" y="0" width="156" height="157" frameX="-1" frameY="0" frameWidth="156" frameHeight="157"/>
+	<SubTexture name="0 alone0005" x="0" y="0" width="156" height="157" frameX="-1" frameY="0" frameWidth="156" frameHeight="157"/>
+	<SubTexture name="0 alone0006" x="0" y="0" width="156" height="157" frameX="-1" frameY="0" frameWidth="156" frameHeight="157"/>
+	<SubTexture name="0 alone0007" x="0" y="0" width="156" height="157" frameX="-1" frameY="0" frameWidth="156" frameHeight="157"/>
+	<SubTexture name="0 alone0008" x="0" y="0" width="156" height="157"/>
+	<SubTexture name="0 alone0009" x="0" y="0" width="156" height="157"/>
+	<SubTexture name="0 alone0010" x="0" y="0" width="156" height="157"/>
+	<SubTexture name="001Ink note alone0000" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0001" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0002" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0003" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0004" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0005" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0006" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0007" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0008" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0009" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="001Ink note alone0010" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="002ae alone0000" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0001" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0002" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0003" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0004" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0005" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0006" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0007" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0008" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0009" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="002ae alone0010" x="1" y="162" width="157" height="154"/>
+	<SubTexture name="003Bruue alone0000" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0001" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0002" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0003" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0004" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0005" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0006" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0007" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0008" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0009" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="003Bruue alone0010" x="162" y="156" width="154" height="157"/>
+	<SubTexture name="Bruh alone0000" x="5" y="317" width="154" height="169" frameX="-3" frameY="-3" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="Bruh alone0001" x="5" y="317" width="154" height="169" frameX="0" frameY="-9" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="Bruh alone0002" x="5" y="317" width="154" height="169" frameX="-3" frameY="0" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="Bruh alone0003" x="5" y="317" width="154" height="169" frameX="-5" frameY="-5" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="CE alone0000" x="176" y="317" width="158" height="169" frameX="-3" frameY="0" frameWidth="163" frameHeight="183"/>
+	<SubTexture name="CE alone0001" x="176" y="317" width="158" height="169" frameX="-5" frameY="0" frameWidth="163" frameHeight="183"/>
+	<SubTexture name="CE alone0002" x="176" y="317" width="158" height="169" frameX="-3" frameY="0" frameWidth="163" frameHeight="183"/>
+	<SubTexture name="CE alone0003" x="176" y="317" width="158" height="169" frameX="0" frameY="0" frameWidth="163" frameHeight="183"/>
+	<SubTexture name="DEATH NOTE alone0000" x="3" y="494" width="157" height="169" frameX="-2" frameY="-13" frameWidth="163" frameHeight="182"/>
+	<SubTexture name="DEATH NOTE alone0001" x="3" y="494" width="157" height="169" frameX="0" frameY="0" frameWidth="163" frameHeight="182"/>
+	<SubTexture name="DEATH NOTE alone0002" x="3" y="494" width="157" height="169" frameX="-2" frameY="0" frameWidth="163" frameHeight="182"/>
+	<SubTexture name="DEATH NOTE alone0003" x="3" y="494" width="157" height="169" frameX="-4" frameY="-16" frameWidth="163" frameHeight="182"/>
+	<SubTexture name="EER alone0000" x="169" y="493" width="154" height="169" frameX="-3" frameY="-3" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="EER alone0001" x="169" y="493" width="154" height="169" frameX="0" frameY="-9" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="EER alone0002" x="169" y="493" width="154" height="169" frameX="-3" frameY="0" frameWidth="161" frameHeight="172"/>
+	<SubTexture name="EER alone0003" x="169" y="493" width="154" height="169" frameX="-5" frameY="-4" frameWidth="161" frameHeight="172"/>
+</TextureAtlas>
